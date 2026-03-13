@@ -1,2 +1,2 @@
 # MMS-Dev
-Magis message sytem developement 
+Magic message sytem developement 
